@@ -63,6 +63,7 @@ ul {
 
 button{
     cursor: pointer;
+    border: transparent;
 }
 
 img {
